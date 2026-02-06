@@ -1,0 +1,1 @@
+The repository implements Olist ecoomerce in MS SQL. The csv files for data regarding sales address seller customer etc where downnloaded from Kaggle and used Python to clean them. OLTP and Warehouse were implemented in MS SQL. Related ERD, SQL codes for creating table, stored procedure and ETL for moving data from OLTP to Warehouse dimensinal table via staging table is provided.
